@@ -34,6 +34,9 @@ npm run dev
 ## Creative Addition
 I added a auto-scroll feature to the client side (Chat.jsx). Now, when the window is full and new message comes in, the window scroll automatically to the new message.
 
+## Video
+[Watch on YouTube](https://youtu.be/qFv8DwqfDK4)
+
 ## Gen AI Usage
 ### Usage 1
 I asked ChatGPT 4o to provide an example of client side based on my code from the tutorial. I referred and modified the answer. <br>
